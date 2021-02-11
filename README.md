@@ -10,7 +10,7 @@ https://jupyter.org/
 
 just run Jupyter in the COMMANDLINE and open up the SDM.ipynb
 
-$ jupyter notebook 
+    $ jupyter notebook 
 
 For the rest just follow the instructions in the notebook 
 
